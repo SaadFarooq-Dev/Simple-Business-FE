@@ -1,3 +1,4 @@
 # Simple-Business-FE
-- https://illustrious-starlight-165aaf.netlify.app
+- https://simple-business-fe.netlify.app
+
 
